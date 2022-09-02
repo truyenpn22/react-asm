@@ -1,0 +1,306 @@
+{
+  "users": [
+    {
+      "email": "gauthum@gmail.com",
+      "password": "111111",
+      "id": 1
+    },
+    {
+      "email": "gauthum@unipe.com",
+      "password": "$2a$10$.bWrSmbyf8sMBAy20S8RVeysRt6cLoSDGkEwkYDk4cYHx2mcY6h9q",
+      "id": 2
+    },
+    {
+      "email": "toila19722@gmail.com",
+      "password": "123456",
+      "id": 3
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "iPhone 13 Pro Max 128GB",
+      "description": "Điện thoại iPhone 13 Pro Max 128 GB - siêu phẩm được mong chờ nhất ở nửa cuối năm 2021 đến từ Apple. Máy có thiết kế không mấy đột phá khi so với người tiền nhiệm, bên trong đây vẫn là một sản phẩm có màn hình siêu đẹp, tần số quét được nâng cấp lên 120 Hz mượt mà, cảm biến camera có kích thước lớn hơn, cùng hiệu năng mạnh mẽ với sức mạnh đến từ Apple A15 Bionic, sẵn sàng cùng bạn chinh phục mọi thử thách.",
+      "image": "https://cdn.tgdd.vn/Products/Images/42/230529/TimerThumb/iphone-13-pro-max-(16).jpg",
+      "amount": "200",
+      "rating": "4.0"
+    },
+    {
+      "id": 2,
+      "title": "Samsung Galaxy A33 5G 6GB ",
+      "description": "Samsung Galaxy A33 5G 6GB ra mắt vào ngày 17/03, được xem là bản cập nhật khá lớn so với thế hệ tiền nhiệm Galaxy A32 về thiết kế đến thông số kỹ thuật bên trong, nhằm mang đến vẻ ngoài đẹp mắt cũng như cạnh tranh trực tiếp ở phần hiệu năng đối với các đối thủ cùng phân khúc giá.",
+      "image": "https://cdn.tgdd.vn/Products/Images/42/246199/samsung-galaxy-a33-5g-xanh-thumb-600x600.jpg",
+      "amount": "300",
+      "rating": "4.0"
+    },
+    {
+      "id": 3,
+      "title": "OPPO A96",
+      "description": "OPPO A96 là cái tên được nhắc đến khá nhiều trên các diễn đàn công nghệ hiện nay, nhờ sở hữu một ngoại hình hết sức bắt mắt cùng hàng loạt các thông số ấn tượng trong phân khúc giá như hiệu năng cao, camera chụp ảnh sắc nét.",
+      "image": "https://cdn.tgdd.vn/Products/Images/42/274381/oppo-a96-den-thumb-1-600x600.jpg",
+      "amount": "400",
+      "rating": "4.0"
+    },
+    {
+      "id": 4,
+      "title": "Vivo Y21s 6GB ",
+      "description": "Vivo chính thức tung ra chiếc điện thoại Vivo Y21s 6GB với hàng loạt các ưu điểm nổi bật, không chỉ ngoại hình bên ngoài mà cả sức mạnh bên trong. Đặc biệt, chiếc smartphone này còn sở hữu mức giá cực tốt trong phân khúc, hứa hẹn sẽ đáp ứng tốt nhu cầu giải trí của bạn.",
+      "image": "https://cdn.tgdd.vn/Products/Images/42/250755/vivo-y21s-white-600x600.jpg",
+      "amount": "350",
+      "rating": "4.0"
+    },
+    {
+      "id": 5,
+      "title": "Samsung Galaxy S22 Ultra 5G 256GB",
+      "description": "Samsung Galaxy S22 Ultra 256GB - chiếc điện thoại Galaxy S đầu tiên sở hữu bút S Pen trong thân máy, được cung cấp sức mạnh bởi CPU đến từ Qualcomm, sở hữu thiết kế sang trọng, màn hình có nhiều cải tiến cùng cụm camera zoom 100x.",
+      "image": "https://cdn.tgdd.vn/Products/Images/42/271697/Galaxy-S22-Ultra-Green-600x600.jpg",
+      "amount": "400",
+      "rating": "4.0"
+    },
+    {
+      "id": 6,
+      "title": "Điện thoại Nokia C21 Plus 64GB",
+      "description": "Tiếp nối sự thành công của những sản phẩm gần đây tại thị trường Việt Nam, lần này hãng Nokia đã mang đến mẫu điện thoại Nokia C21 Plus - sở hữu trong mình viên pin mang lại thời gian trải nghiệm lâu dài và sử dụng an tâm hơn với 2 năm cập nhật bảo mật.",
+      "image": "https://cdn.tgdd.vn/Products/Images/42/274084/nokia-c21-plus-1-2-600x600.jpg",
+      "amount": "600",
+      "rating": "4.0"
+    },
+    {
+      "id": 7,
+      "title": "iPhone 11 64GB",
+      "description": "Apple đã chính thức trình làng bộ 3 siêu phẩm iPhone 11, trong đó phiên bản iPhone 11 64GB có mức giá rẻ nhất nhưng vẫn được nâng cấp mạnh mẽ như iPhone Xr ra mắt trước đó.",
+      "image": "https://cdn.tgdd.vn/Products/Images/42/153856/iphone-xi-xanhla-600x600.jpg",
+      "amount": "300",
+      "rating": "4.0"
+    },
+    {
+      "id": 8,
+      "title": "Samsung Galaxy Z Flip3 5G 128GB ",
+      "description": "Trong sự kiện Galaxy Unpacked hồi 11/8, Samsung đã chính thức trình làng mẫu điện thoại màn hình gập thế hệ mới mang tên Samsung Galaxy Z Flip3 5G 128GB. Đây là một siêu phẩm với màn hình gập dạng vỏ sò cùng nhiều điểm cải tiến và thông số ấn tượng, sản phẩm chắc chắn sẽ thu hút được rất nhiều sự quan tâm của người dùng, đặc biệt là phái nữ.",
+      "image": "https://cdn.tgdd.vn/Products/Images/42/229949/samsung-galaxy-z-flip-3-cream-1-600x600.jpg",
+      "amount": "100",
+      "rating": "4.0"
+    },
+    {
+      "id": 9,
+      "title": "Xiaomi Redmi Note 11",
+      "description": "Xiaomi Redmi Note 11 (4GB/128GB) chính thức cập bến phân khúc smartphone giá tầm trung, cấu hình khá ổn từ chip Snapdragon và một ngoại hình trẻ trung, sang đẹp cùng cụm camera chất lượng, sẽ là lựa chọn tốt vừa túi tiền cho mọi khách hàng.",
+      "image": "https://cdn.tgdd.vn/Products/Images/42/269832/Xiaomi-redmi-note-11-blue-600x600.jpeg",
+      "amount": "300",
+      "rating": "4.0"
+    },
+    {
+      "id": 10,
+      "title": "Xiaomi Redmi Note 11 Pro ",
+      "description": "Xiaomi Redmi Note 11 Pro 4G mang trong mình khá nhiều những nâng cấp cực kì sáng giá. Là chiếc điện thoại có màn hình lớn, tần số quét 120 Hz, hiệu năng ổn định cùng một viên pin siêu trâu.",
+      "image": "https://cdn.tgdd.vn/Products/Images/42/270471/xiaomi-redmi-note-11-pro-trang-thumb-600x600.jpg",
+      "amount": "500",
+      "rating": "4.0"
+    },
+    {
+      "id": 11,
+      "title": "Xiaomi Redmi 10A",
+      "description": "Xiaomi đã bổ sung dòng điện thoại giá rẻ bằng cách tung ra thị trường thiết bị mới có tên Xiaomi Redmi 10A, nổi bật với thiết kế đơn giản mà tinh tế, màn hình hiển thị lớn và có pin dung lượng lên đến 5000 mAh.",
+      "image": "https://cdn.tgdd.vn/Products/Images/42/271734/xiaomi-redmi-10a-thumb-600x600.jpg",
+      "amount": "700",
+      "rating": "4.0"
+    },
+    {
+      "id": 12,
+      "title": "Xiaomi Redmi 10C",
+      "description": "Nhằm mang thêm lựa chọn cho khách hàng trong phân khúc điện thoại giá rẻ, Xiaomi cho ra mắt Xiaomi Redmi 10C 128GB với nhiều nâng cấp đáng kể về mặt hiệu suất, chất lượng hiển thị và khả năng chụp ảnh cùng một mức giá cực kỳ cạnh tranh.",
+      "image": "https://cdn.tgdd.vn/Products/Images/42/275155/xiaomi-redmi-10c-%C4%91en-thumb-600x600.jpg",
+      "amount": "100",
+      "rating": "4.0"
+    }
+  ],
+  "orders": [
+    {
+      "basket": [
+        {
+          "id": 2,
+          "title": "Samsung Galaxy A33 5G 6GB ",
+          "image": "https://cdn.tgdd.vn/Products/Images/42/246199/samsung-galaxy-a33-5g-xanh-thumb-600x600.jpg",
+          "price": "300",
+          "rating": "4.0"
+        }
+      ],
+      "id": 9
+    },
+    {
+      "basket": [
+        {
+          "id": 3,
+          "title": "OPPO A96",
+          "image": "https://cdn.tgdd.vn/Products/Images/42/274381/oppo-a96-den-thumb-1-600x600.jpg",
+          "price": "400",
+          "rating": "4.0"
+        },
+        {
+          "id": 4,
+          "title": "Vivo Y21s 6GB ",
+          "image": "https://cdn.tgdd.vn/Products/Images/42/250755/vivo-y21s-white-600x600.jpg",
+          "price": "350",
+          "rating": "4.0"
+        }
+      ],
+      "id": 10
+    },
+    {
+      "basket": [
+        {
+          "id": 2,
+          "title": "Samsung Galaxy A33 5G 6GB ",
+          "image": "https://cdn.tgdd.vn/Products/Images/42/246199/samsung-galaxy-a33-5g-xanh-thumb-600x600.jpg",
+          "price": "300",
+          "rating": "4.0"
+        }
+      ],
+      "id": 11
+    },
+    {
+      "basket": [
+        {
+          "id": 2,
+          "title": "Samsung Galaxy A33 5G 6GB ",
+          "image": "https://cdn.tgdd.vn/Products/Images/42/246199/samsung-galaxy-a33-5g-xanh-thumb-600x600.jpg",
+          "price": "300",
+          "rating": "4.0"
+        },
+        {
+          "id": 3,
+          "title": "OPPO A96",
+          "image": "https://cdn.tgdd.vn/Products/Images/42/274381/oppo-a96-den-thumb-1-600x600.jpg",
+          "price": "400",
+          "rating": "4.0"
+        }
+      ],
+      "id": 12
+    },
+    {
+      "basket": [
+        {
+          "id": 1,
+          "title": "iPhone 13 Pro Max 128GB",
+          "image": "https://cdn.tgdd.vn/Products/Images/42/230529/TimerThumb/iphone-13-pro-max-(16).jpg",
+          "price": "200",
+          "rating": "4.0"
+        }
+      ],
+      "id": 13
+    },
+    {
+      "basket": [
+        {
+          "id": 1,
+          "title": "iPhone 13 Pro Max 128GB",
+          "image": "https://cdn.tgdd.vn/Products/Images/42/230529/TimerThumb/iphone-13-pro-max-(16).jpg",
+          "price": "200",
+          "rating": "4.0"
+        }
+      ],
+      "id": 14
+    },
+    {
+      "basket": [
+        {
+          "id": 5,
+          "title": "Samsung Galaxy S22 Ultra 5G 256GB",
+          "image": "https://cdn.tgdd.vn/Products/Images/42/271697/Galaxy-S22-Ultra-Green-600x600.jpg",
+          "price": "400",
+          "rating": "4.0"
+        },
+        {
+          "id": 6,
+          "title": "Điện thoại Nokia C21 Plus 64GB",
+          "image": "https://cdn.tgdd.vn/Products/Images/42/274084/nokia-c21-plus-1-2-600x600.jpg",
+          "price": "600",
+          "rating": "4.0"
+        }
+      ],
+      "id": 15
+    },
+    {
+      "basket": [
+        {
+          "id": 5,
+          "title": "Samsung Galaxy S22 Ultra 5G 256GB",
+          "image": "https://cdn.tgdd.vn/Products/Images/42/271697/Galaxy-S22-Ultra-Green-600x600.jpg",
+          "price": "400",
+          "rating": "4.0"
+        },
+        {
+          "id": 6,
+          "title": "Điện thoại Nokia C21 Plus 64GB",
+          "image": "https://cdn.tgdd.vn/Products/Images/42/274084/nokia-c21-plus-1-2-600x600.jpg",
+          "price": "600",
+          "rating": "4.0"
+        }
+      ],
+      "id": 16
+    },
+    {
+      "basket": [
+        {
+          "id": 2,
+          "title": "Samsung Galaxy A33 5G 6GB ",
+          "image": "https://cdn.tgdd.vn/Products/Images/42/246199/samsung-galaxy-a33-5g-xanh-thumb-600x600.jpg",
+          "price": "300",
+          "rating": "4.0"
+        }
+      ],
+      "id": 17
+    }
+  ],
+  "favourites": [
+    {
+      "id": 1,
+      "title": "EYEBOGLER Regular Fit Men's Cotton T-Shirt",
+      "image": "https://i.pinimg.com/originals/25/0d/a3/250da32c889b624849bf828ae2ece420.jpg",
+      "price": "200",
+      "rating": "4.0"
+    },
+    {
+      "id": 6,
+      "title": "Jockey Men's Cotton T-Shirt",
+      "image": "https://i.pinimg.com/564x/7f/c0/84/7fc084dbec9b6c0ce19ab73b25bcba7f.jpg",
+      "price": "600",
+      "rating": "4.0"
+    },
+    {
+      "id": 7,
+      "title": "AMERICAN CREW - Men's Regular Fit Polos",
+      "image": "https://i.pinimg.com/originals/25/0d/a3/250da32c889b624849bf828ae2ece420.jpg",
+      "price": "300",
+      "rating": "4.0"
+    },
+    {
+      "id": 5,
+      "title": "Max Men's Slim Polo",
+      "image": "https://i.pinimg.com/564x/5a/cc/7f/5acc7f5af23bee76168f0f1fd24c75b4.jpg",
+      "price": "400",
+      "rating": "4.0"
+    },
+    {
+      "id": 2,
+      "title": "RodZen - Men's Cotton Half Sleeve Regular Fit Striped T-Shirt",
+      "image": "https://i.pinimg.com/564x/b9/83/a7/b983a7e4e9a4a05ee8ae8333f1c7b2d8.jpg",
+      "price": "300",
+      "rating": "4.0"
+    },
+    {
+      "id": 4,
+      "title": "Jockey - Men's Regular Fit Round Neck Half Sleeved T-Shirt",
+      "image": "https://i.pinimg.com/564x/26/ee/90/26ee903549b8b69635152f5db58264b2.jpg",
+      "price": "350",
+      "rating": "4.0"
+    },
+    {
+      "id": 3,
+      "title": "U.S. POLO ASSN - Men's Solid Regular Fit Cotton Polo",
+      "image": "https://i.pinimg.com/564x/55/82/bc/5582bc23ad7619f10f09d10141e7a6b9.jpg",
+      "price": "400",
+      "rating": "4.0"
+    }
+  ]
+}
